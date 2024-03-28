@@ -1,5 +1,9 @@
 # ATV_01_SINTAXE_SQL
 
+### Identificação da Máquina Virtual:
+![Nome da Máquina Virtual](nomeMaquina.png)
+![Nome do Usuário](nomeUsuario.png)
+
 ### Código SQL:
 
 ```sql
@@ -57,6 +61,3 @@ INSERT INTO alunos (id, nome, sobrenome, idade) VALUES
 -- Mostrar os dados inseridos
 SELECT * FROM alunos;
 ```
-### Identificação da Máquina Virtual:
-
-
