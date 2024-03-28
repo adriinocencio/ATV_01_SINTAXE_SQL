@@ -57,3 +57,6 @@ INSERT INTO alunos (id, nome, sobrenome, idade) VALUES
 -- Mostrar os dados inseridos
 SELECT * FROM alunos;
 ```
+### Identificação da Máquina Virtual:
+
+
